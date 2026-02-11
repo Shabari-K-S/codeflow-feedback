@@ -3,11 +3,6 @@
 > **See your code come to life.**
 > A powerful, real-time code execution visualizer that transforms static code into dynamic, interactive flowcharts.
 
-![Version](https://img.shields.io/badge/version-1.1.0-blue.svg)
-![TypeScript](https://img.shields.io/badge/TypeScript-5.0+-3178C6?logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-19-61DAFB?logo=react&logoColor=black)
-![Vite](https://img.shields.io/badge/Vite-7.0-646CFF?logo=vite&logoColor=white)
-
 ## 📖 Overview
 
 CodeFlow is a developer tool designed to bridge the gap between reading code and understanding its execution. By parsing standard JavaScript, TypeScript, Python, C, and **Java** code, CodeFlow generates accurate, real-time flowcharts and visualizes the step-by-step execution state.
