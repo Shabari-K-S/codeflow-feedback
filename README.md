@@ -36,16 +36,26 @@ You can access the live tool and start visualizing your code at:
 
 ---
 
-## 💬 Issue Reporting
+## 🤝 Community Feedback & Issues
 
-Since this is a **closed/private repository**, we rely on internal feedback to improve.
+We're building **CodeFlow** to help developers visualize and understand their code better. Your feedback is essential to making this tool more powerful and reliable.
 
-- **How to report**: Navigate to the [codeflow-feedback](https://github.com/Shabari-K-S/codeflow-feedback/issues) tab and use the provided templates.
-- **What to include**:
-    - A snippet of the code that caused the crash.
-    - Expected vs. Actual flowchart output.
-    - Browser version and OS.
+Found a bug? Have a feature request? Please let us know!
+
+1. **Check for duplicates**: Browse [existing issues](https://github.com/Shabari-K-S/codeflow-feedback/issues) to see if your feedback has already been shared.
+2. **Open a new issue**: Use our [issue templates](https://github.com/Shabari-K-S/codeflow-feedback/issues/new/choose).
+3. **Share your code**: To help us debug, please include the snippet that caused the issue using **Markdown code blocks**:
+   ```
+   ```javascript
+   // Your code here which you used in codeflow
+   ```
+   ```
+4. **Visual Context**: If the flowchart looks incorrect or the UI crashed, please **attach a screenshot**! A picture is worth a thousand lines of code.
+5. **Environment**: Mention your browser (e.g., Chrome, Firefox) and OS.
+
+Thank you for helping us grow! 🌊
 
 ---
 
 **Made with 💙 by Shabari K S**
+
